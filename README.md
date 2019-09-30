@@ -40,4 +40,4 @@ To start developing your new Stencil project, run:
 npm install & npm start
 ```
 
-To go to the Vass Stencil project [click here](../vass-stencil-components)
+To go to the Vass Stencil project [click here](../../vass-stencil-components)
